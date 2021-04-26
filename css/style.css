@@ -1,0 +1,51 @@
+body {
+	background: #D19BF5;
+}
+
+a {
+	text-decoration: none;
+	list-style: none;
+}
+
+a:link {
+	color: #970CD3;
+}
+
+a:visited {
+	color: #2A023A;
+}
+
+a:hover {
+	color: #6d790f;
+}
+
+a:active{
+	color: #1A0B20;
+}
+
+h1 {
+	color: #07433E;
+	font-family: fantasy;
+}
+
+h2 {
+	font-family: fantasy;
+}
+
+p {
+	font-size: 18px;
+}
+
+footer {
+	margin-bottom: 30px;
+}
+
+.img_padrao {
+	margin-bottom: 20px;
+	width: 300px;
+}
+
+.logo {
+	width: 30px;
+}
+
