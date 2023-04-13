@@ -1,2 +1,2 @@
-# aula_hrml5_css3
+# aula_html5_css3
 Aula de como usar os html5 e css3
